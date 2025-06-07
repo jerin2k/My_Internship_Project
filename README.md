@@ -51,7 +51,7 @@ This project demonstrates hands-on automation testing of an E-Commerce website *
 - ✅ Checkout Process
 - ✅ UI Validations (titles, error messages, etc.)
 - ✅ Screenshot on Failure
-- ✅ Cross-browser test (Chrome, Firefox – optional)
+- ✅ Cross-browser test (Chrome, Firefox, Edge)
 
 ---
 
